@@ -1,14 +1,14 @@
 {
-	"name": "V2Ray",
-	"description": "Deploy V2ray on Heroku.",
-	"keywords": ["V2Ray"],
+	"name": "C2Ray",
+	"description": "Deploy C2ray on Heroku.",
+	"keywords": ["C2Ray"],
 	"env": {
 		"UUID": {
-			"description": "V2Ray UUID",
-			"value": "ad806487-2d26-4636-98b6-ab85cc8521f7"
+			"description": "C2Ray UUID",
+			"value": "78266cb5-8860-4d12-9095-296f784d4891"
 		}
 	},
-	"website": "https://ibcl.us/Heroku-V2Ray_20191014/",
-	"repository": "https://github.com/bclswl0827/v2ray-heroku",
+	"website": "https://github.com/dylanbai8/my_hero",
+	"repository": "https://github.com/dylanbai8/my_hero",
 	"stack": "container"
 }
